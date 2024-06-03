@@ -1,0 +1,5 @@
+GOOGLE_CLIENT_ID: CLIENT_ID
+GOOGLE_CLIENT_SECRET: CLIENT_SECRET
+GOOGLE_CALLBACK_URL: https://us-central1-the-office-bots.cloudfunctions.net/auth_callback
+GCP_PROJECT: the-office-bots
+FUNCTION_TRIGGER_TYPE: CLOUD_PUBSUB_TRIGGER
